@@ -9,8 +9,6 @@ Ambos matrimonios tuvimos días complicados hasta el punto que Andrés termino d
 
 En conclusión llegamos bajo agua con tremenda tormenta. Según lo planeado nos fui,so a la sala VIP para desestresarnos. Finalmente salimos algo demorados pero ya no dependia de nosotros.
 
-
-
 El vuelo tranquilo. Yo sufrí nauseas durante la noche pero fueron cuestiones de momento. Los Nuñez durmieron como bebes gracias a un pastillazo. Andresito durmió lo que yo lo habilite porque le pedí varias veces para salir, pero nada diferente a lo común .
 
 Llegamos justo para tomar el avión a Punta Cana. El avión espero a varios pasajeros demorados.
@@ -38,3 +36,7 @@ Nos fuimos esperando encontrar a los Nuñez. Le enviamos whatsapp y también se 
 Luego piscina y otra vez la preocupación del donde vamos a,almorzar. Por supuesto que siempre hidratándonos, para no sufrir del calor. Lugo de,asumido nos bañamos y nos fuimos al  Behique Tomando el trencito. El lugar precioso comimos mucho salmón y mariscos. Había cus cus perfecto y lo mejor de todo el cheese cake de verdad. Reffil de cerveza pero no es tan cabezona como la Pilsen.
 
 Volviendo Andresito se quedo en la habitación y el,resto nos vinimos a,la,piscina donde está fresco bajo los techitos de Cana y música.
+
+![](/img/whatsapp-image-2019-05-11-at-2.22.58-pm.jpeg "Primeros dias")
+
+![](/img/whatsapp-image-2019-05-11-at-7.53.21-pm.jpeg "papá pasandola re mal")
