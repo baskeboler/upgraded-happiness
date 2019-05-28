@@ -33,8 +33,6 @@ A la salida ya casi las 23 hs habría la disco, sin duda nosotras las chicas sug
 
 Quedamos  para desayunar a las 8:15 del otro día.
 
-
-
 _12/5/19_  
 
 Día de la madre. Yo comencé mal por cuanto durante la noche tuve un ataque de alergia debido a los diminutos y silenciosos mosquitos de la zona. Aparentemente me masticaron en el desayuno de  día anterior y en esta noche comenzaron a aparecer ronchas y picazón nunca experimentadas, no dormí en toda la noche, finalmente a las 5:00 me tomé un perifar como antiinflamatorio  y llegamos a las 8:00 de la mañana. 
@@ -44,8 +42,6 @@ Nos encontramos en el restaurante, escapando de un fulano que nos contacto inten
 Estábamos desayunando y aparece Josué el entablillado ( 2 dedos  lesionados) que nos venía a buscar. Fue un momento inolvidable Yo que no veía cómo hacer para no rascarme, María explicando que hoy era el día  de la madre en Uruguay ( que le importaría al tipo esa gran festividad ) y allí apareció la versión escondida de Nuñez cuando intentó explicarle la razón por la que no íbamos a acompañarlo al desayuno !!!
 
 Imposible transferir con palabras la cara del Josué cuando le dijo, "ya tengo casi 60 años y no me vas a hacer una mañana al cuete por la que ya pague acá. Si me ofrecieras una dia de estadía adicional  lo podría pensar " creemos que Josué captó el mensaje y salió pidiendo disculpas.
-
-
 
 Luego del desayuno y del asombro de ver personas desayunando con champán nos separamos y los Nuñez se fueron a la playa y nosotros a buscar medico para tratar mi alergia. Luego de frustrados intentos termine llamando al seguro de viaje del Semm universal asistance y a las 11:30 estaba en medico en la habitación con tratamiento completo.
 
@@ -66,8 +62,6 @@ Alvaro y María pidieron ternera y parece estaba muy salado (abundante salsa de 
 Nos volvimos tarde y en el lobby del hotel había tremenda movida con música en vivo y una cantidad de gente bailando por lo que nos sumamos al grupo compartiendo pista con una chica mejicana y su incontrolable veterano compañero que hicieron furor en la disco.
 
 A esa altura luego del baile, María quería más por lo que cuando todos nos fuimos a dormir ella se puso su equipo de deportes y salió a caminar por los alrededores. Todo un  ejemplo a seguir. Quedamos en vernos en el desayuno a las 8:15 en el mismo lugar.
-
-
 
 _13/5/19_ 
 
@@ -117,8 +111,6 @@ Los postres como siempre dejan que desear, nos trajeron uno de cada uno para deg
 
 Luego de esa experiencia nos fuimos a la disco donde los chicos se descuidaron y María y yo nos bailamos todos con la música a mil con oldies 
 
-
-
 _15/5/19_
 
 Este día no hemos tenido grandes variantes en nuestro itinerario. Seguimos desayunando a la misma hora en el restaurante Catedral donde la atención es re linda y hay un lugarcito con aire fresco súper agradable. El único punto a considerar son los pájaros que vuelan dentro del mismo con tremenda velocidad robando stibia de las mesas.
@@ -133,4 +125,10 @@ La completaron con la ida al travel group prometiéndole 20 minutos de desayuno,
 
 Luego de la historia de los hermanos argentinos y complacidos de haber sacado algo positivo de la experiencia de los Nuñez en Cancún resolví,os irnos a prepararnos para la cena, no sin antes una pasada por el yacuzi .
 
-El,plan de la cena en esta ocasión fue ir al restaurante italiano el Portofino que los argentinos nos lo habían calificado re bien. Lo único que
+El,plan de la cena en esta ocasión fue ir al restaurante italiano el Portofino que los argentinos nos lo habían calificado re bien. 
+
+Tuvimos una espera  de un buen rato pero valió la pena porque fue de los mejores lugares.
+
+Comimos pasta todos y de entrada para todos unánime  fue provolone  con rucula u concentrado de aceto balsámico que debemos tratar de imitar.  Los postres solo el tiramisu resultó ser el ganador, los demás solo gelatinas sin sabor.
+
+Pasamos por la disco en la noche pero no había nada para recordar.
