@@ -3,7 +3,7 @@ title: 'Punta Cana, Parte 4'
 date: 2019-05-19T03:46:59.027Z
 description: Ultima entrega desde Punta Cana
 ---
-
+![](/img/whatsapp-image-2019-05-18-at-10.59.15-am.jpeg "no fueron mucho a la playa. la joda era en el resort.")
 
 _17/5/19_ todo ídem, desayuno, playa con mucho topless, hidratación y almuerzo.
 
@@ -23,7 +23,7 @@ Lo mejor el arroz  con leche, seguimos confirmando que como nuestros postres no 
 
 Saliendo de allí pasamos por el teatro y así como entramos salimos porque no terminan de convencer de modo que nos fuimos al lobby un trago y a disfrutar de la banda que toca re lindo y el cantante un desastre pero tiene su crédito al ver como conquista a una chica desde hace 2 días vemos la evolución de la relación. Lo característico de ella es bonita muy alta rubia y sus uñas miden 4 cm. Cada una. Parece complicado rascarse.
 
-
+![](/img/whatsapp-image-2019-05-18-at-10.07.31-am.jpeg "con Alvarito rompiendo la dieta.")
 
 _18/5/19_ por tratarse del último día completo resolvimos mantener nuestra rutina de desayuno a las 8:15 hs. Relogito total, a las 8:00 llamada recordatorio a María mientras asumimos tenemos prontos los campamentos de la playa y la piscina.
 
@@ -44,8 +44,6 @@ Como a las 21:00 nos fuimos a cenar porque cierran a las 22:00. A este restauran
 Volvimos al lobby y los Giles prontos para dormir, ya teníamos medio armadas las valijas lo que nos dio tranquilidad, nos pusimos a ver una pelo y hasta el otro día. Como no hay felicidad completa, esta noche nos masticaron los mosquitos, mal muy mal.
 
 Entretanto, María en acción, se mantuvo en el lobby para tratar de ver concluida la novela con nuestro cantante estrella y la alemana la que el último día había parecido haber habido un desencuentro.
-
-
 
 _19/5/19_ nos reportamos en el desayuno a las 7:30 de la mañana en la mesa redonda al costado que la de costumbre, pero uy fresco. Llovió abundante un rato antes de levantarnos por lo que estaba todo encharcado.
 
