@@ -30,21 +30,21 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 64,
                 borderRadius: `100%`,
               }}
               imgStyle={{
                 borderRadius: `50%`,
               }}
-            />{" "}
+            />
             <p>
-              Escrito por <strong> {author} </strong>, quien vive en Montevideo,
-              Uruguay. El sitio fue creado por Victor con gatsby.js y
-              netlifycms. {` `}{" "}
+              Escrito por <strong>{author}</strong>, quien vive en Montevideo,
+              Uruguay. El sitio fue creado por Victor.
+              {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Siguelo en Twitter{" "}
-              </a>{" "}
-            </p>{" "}
+                Siguelo en Twitter
+              </a>
+            </p>
           </div>
         )
       }}
@@ -56,7 +56,7 @@ const bioQuery = graphql`
   query BioQuery {
     avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
+        fixed(width: 64, height: 64) {
           ...GatsbyImageSharpFixed
         }
       }
