@@ -3,6 +3,8 @@ title: my first post
 date: 2019-05-28T02:24:39.698Z
 description: this is a description of the post
 ---
+![](/img/pp.jpeg "y bueno mijo")
+
 # Gatsby
 
 This guide will help you get started using Netlify CMS and Gatsby.
