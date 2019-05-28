@@ -3,6 +3,8 @@ title: 'Punta Cana, Parte 3'
 date: 2019-05-17T03:17:34.384Z
 description: Tercera entrega de los viajes de mi mamá
 ---
+![](/img/whatsapp-image-2019-05-15-at-2.07.39-pm.jpeg "mamá está fascinada con las boludeces que le hacen con las toallas cuando le arreglan el cuarto.")
+
 _16/5/19_ 
 
 Seguimos desayunando en la Catedral, donde el mozo ya nos recibe bailando trayendo el capuchino sin haberlo pedido. Un genio el tipo.
