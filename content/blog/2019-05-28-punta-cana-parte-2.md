@@ -81,6 +81,8 @@ Fuimos a cenar al restaurante aclarando que no queríamos picante. Estuvo buena 
 
 Salimos y volvimos al lobby a seguir con música en vivo al rato nos fuimos y en la playa había tremenda movida con música y luces que nos llamó la atención. Fuimos y había un despliegue de baile de inclusivos que no se podía definir.  Asimismo aromas de todo tipo desde tabaco a lo que fuera, nos sentimos un poco desubicados y vuelta al 1194.
 
+![](/img/whatsapp-image-2019-05-13-at-2.44.59-pm.jpeg "mamá en la piscina")
+
 _14/5/19_ 
 
 desayuno en nuestro lugar favorito con los mismos mozos que son un encanto y resueltos a cuidar el organismo por cuanto lo traemos un tanto maltratado le dimos para inicio jueguito, fruta y yogurt parecía orquestado, la liquido Alvarito en cuanto sintió algo de languidez y se trajo un wafle con chocolate pero en muy pequeña proporción 😂
