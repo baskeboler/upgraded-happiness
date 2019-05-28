@@ -1,6 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
-
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
@@ -18,7 +17,8 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
+          <AniLink
+            fade
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
@@ -27,7 +27,7 @@ class Layout extends React.Component {
             to={`/`}
           >
             {title}
-          </Link>
+          </AniLink>
         </h1>
       )
     } else {
@@ -38,7 +38,8 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
+          <AniLink
+            swipe
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
@@ -47,7 +48,7 @@ class Layout extends React.Component {
             to={`/`}
           >
             {title}
-          </Link>
+          </AniLink>
         </h3>
       )
     }
