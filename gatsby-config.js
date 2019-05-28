@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Mamá en el Caribe`,
-    author: `Victor, Rosario`,
+    author: `Rosario`,
     description: `Memorias de mamá en sus viajes.`,
     siteUrl: `https://mama-en-el-caribe.yoruguan.com/`,
     social: {
@@ -27,8 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [
-          {
+        plugins: [{
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
@@ -51,7 +50,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-          // trackingId: `ADD YOUR TRACKING ID HERE`,
+        // trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
     `gatsby-plugin-feed`,
