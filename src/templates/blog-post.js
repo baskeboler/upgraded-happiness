@@ -1,6 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { graphql, Link } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -48,16 +47,16 @@ class BlogPostTemplate extends React.Component {
         >
           <li>
             {previous && (
-              <AniLink fade to={previous.fields.slug} rel="prev">
+              <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
-              </AniLink>
+              </Link>
             )}
           </li>
           <li>
             {next && (
-              <AniLink fade to={next.fields.slug} rel="next">
+              <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
-              </AniLink>
+              </Link>
             )}
           </li>
         </ul>

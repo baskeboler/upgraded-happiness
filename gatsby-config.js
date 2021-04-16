@@ -130,7 +130,7 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-transition-link`,
+    // `gatsby-plugin-transition-link`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {

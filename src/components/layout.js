@@ -1,7 +1,7 @@
 import React from "react"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+// import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { rhythm, scale } from "../utils/typography"
-
+import { Link } from "gatsby";
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
@@ -17,17 +17,11 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <AniLink
-            fade
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
+          <Link
             to={`/`}
           >
             {title}
-          </AniLink>
+          </Link>
         </h1>
       )
     } else {
@@ -38,17 +32,11 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <AniLink
-            swipe
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
+          <Link
             to={`/`}
           >
             {title}
-          </AniLink>
+          </Link>
         </h3>
       )
     }
