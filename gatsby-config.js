@@ -3,7 +3,7 @@ module.exports = {
     title: `Mamá en el Caribe`,
     author: `Rosario`,
     description: `Memorias de mamá en sus viajes.`,
-    siteUrl: `https://mama-en-el-caribe.netlify.app/`,
+    siteUrl: `https://mama-en-el-caribe.netlify.app`,
     social: {
       twitter: `baskeboler`,
     },
@@ -130,7 +130,12 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    // `gatsby-plugin-transition-link`,
+    // `gatsby-plugin-transition-link`,      {
+    {    resolve: `gatsby-plugin-disqus`,
+        options: {
+            shortname: `mama-en-el-caribe`
+        }
+    },
     {
       resolve: `gatsby-plugin-typography`,
       options: {

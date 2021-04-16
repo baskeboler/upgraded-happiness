@@ -4,13 +4,16 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import { Disqus } from 'gatsby-plugin-disqus';
+
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const postPath = post.fields.slug;
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-
+    const canonicalUrl = `${this.props.data.site.siteMetadata.siteUrl}${postPath}` ;
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -29,6 +32,23 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <hr
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        />
+
+        <Disqus
+                config={{
+                    /* Replace PAGE_URL with your post's canonical URL variable */
+                    url: canonicalUrl,
+                    /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+                    identifier: postPath,
+                    /* Replace PAGE_TITLE with the title of the page */
+                    title: post.frontmatter.title,
+                }}
+        />
+        
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -73,6 +93,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -83,6 +104,9 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+      }
+      fields {
+        slug
       }
     }
   }
