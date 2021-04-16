@@ -3,7 +3,7 @@ module.exports = {
     title: `Mamá en el Caribe`,
     author: `Rosario`,
     description: `Memorias de mamá en sus viajes.`,
-    siteUrl: `https://mama-en-el-caribe.yoruguan.com/`,
+    siteUrl: `https://mama-en-el-caribe.netlify.app/`,
     social: {
       twitter: `baskeboler`,
     },
@@ -27,12 +27,13 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [{
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 590,
-            },
-          },
+        plugins: [
+          // {
+          //   resolve: `gatsby-remark-images`,
+          //   options: {
+          //     maxWidth: 590,
+          //   },
+          // },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -46,6 +47,8 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
    /* `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
