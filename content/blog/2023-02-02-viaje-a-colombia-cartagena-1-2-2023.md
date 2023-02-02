@@ -24,10 +24,10 @@ Llegamos a Cartagena, tomamos taxi y el hotel tal cual nos imaginamos pero un po
 
  De todos modos llegamos y esta re linda. Descansamos y en la tarde salimos a reconocer el lugar está re bien ubicado en la plaza San Diego a 2 cuadra del Shopping ( tentadero) zerrazuela,era la plaza de toros que mantienen pe la estructura original. Súper agradable. A una cuadra un supermercado llamado Éxito. Compramos picada y luego de la misa en la Iglesia San Toribio cenamos en la habitación. Nos desmayamos. Tremendo primer día 
 
-fin del relato por el momento.
-
 ![](/img/whatsapp-image-2023-02-01-at-22.12.27.jpeg "Hace casi dos dias que estamos sin comer. Nos estamos  reponiendo !!!👏👏")
 
 ![](/img/whatsapp-image-2023-02-02-at-16.19.10.jpeg)
 
 ![](/img/whatsapp-image-2023-02-02-at-17.13.26.jpeg)
+
+fin del relato por el momento.
