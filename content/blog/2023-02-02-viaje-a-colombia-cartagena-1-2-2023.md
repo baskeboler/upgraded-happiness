@@ -27,3 +27,7 @@ Llegamos a Cartagena, tomamos taxi y el hotel tal cual nos imaginamos pero un po
 fin del relato por el momento.
 
 ![](/img/whatsapp-image-2023-02-01-at-22.12.27.jpeg "Hace casi dos dias que estamos sin comer. Nos estamos  reponiendo !!!👏👏")
+
+![](/img/whatsapp-image-2023-02-02-at-16.19.10.jpeg)
+
+![](/img/whatsapp-image-2023-02-02-at-17.13.26.jpeg)
