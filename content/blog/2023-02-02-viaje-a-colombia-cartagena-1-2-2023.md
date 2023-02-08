@@ -31,3 +31,8 @@ Llegamos a Cartagena, tomamos taxi y el hotel tal cual nos imaginamos pero un po
 ![](/img/whatsapp-image-2023-02-02-at-17.13.26.jpeg)
 
 fin del relato por el momento.
+
+---
+
+Olvide contar que cuando fuimos al Shopping había una isla de Claro y compramos un chip para tener internet. Los diferentes fue que nos atendió una chica colombiana muy encantadora bien dispuesta a colaborar un tanto rellenita y con una camisa ajustadita con una prili.
+Estos detalles son porque mientras probaba un teléfono y otro intercambiando chips el sostén se le empezó a mover y no faltaba mucho para que aquel exceso de glándula  se liberará. Fue intenso, yo nerviosa metiendo panza para adentro como colaborando. Andresito cuando le comente  puso cara de no sé de que  hablas 🤷🏻‍♀️😂
