@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Mamá en el Caribe`,
+    title: `Los viajes de Rosario`,
     author: `Rosario`,
     description: `Memorias de mamá en sus viajes.`,
-    siteUrl: `https://mama-en-el-caribe.netlify.app`,
+    siteUrl: `https://los-viajes-de-rosario.netlify.app`,
     social: {
       twitter: `baskeboler`,
     },
@@ -118,7 +118,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Mamá en el Caribe`,
+        name: `Los viajes de Rosario`,
         short_name: `Bibí Viajando`,
         start_url: `/`,
         background_color: `#ffffff`,
@@ -133,7 +133,7 @@ module.exports = {
     // `gatsby-plugin-transition-link`,      {
     {    resolve: `gatsby-plugin-disqus`,
         options: {
-            shortname: `mama-en-el-caribe`
+            shortname: `los-viajes-de-rosario`
         }
     },
     {
